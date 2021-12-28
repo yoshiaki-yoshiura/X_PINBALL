@@ -53,7 +53,15 @@
     <UnityVersion>2020.3.21f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets/BallController.cs" />
     <Compile Include="Assets/PuroperaController.cs" />
+    <Compile Include="Assets/Tokuten.cs" />
+    <Compile Include="Assets/ReTryController.cs" />
+    <Compile Include="Assets/StartController.cs" />
+    <Compile Include="Assets/TopController.cs" />
+    <Compile Include="Assets/GameOverDirector.cs" />
+    <Compile Include="Assets/TopDirector.cs" />
+    <Compile Include="Assets/buttonController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
