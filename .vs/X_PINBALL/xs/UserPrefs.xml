@@ -1,22 +1,21 @@
-﻿<Properties StartupConfiguration="{07BD9718-7499-3CC0-7D1E-3B47EB0C5D11}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/buttonController.cs">
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BallController.cs">
     <Files>
-      <File FileName="Assets/Tokuten.cs" Line="19" Column="1" />
-      <File FileName="Assets/BallController.cs" Line="40" Column="1" />
-      <File FileName="Assets/PuroperaController.cs" Line="23" Column="49" />
-      <File FileName="Assets/TopDirector.cs" Line="16" Column="9" />
-      <File FileName="Assets/GameOverDirector.cs" Line="15" Column="6" />
-      <File FileName="Assets/XController.cs" Line="27" Column="56" />
-      <File FileName="Assets/GameOverDirector.cs" Line="25" Column="1" />
-      <File FileName="Assets/TopDirector.cs" Line="31" Column="84" />
-      <File FileName="Assets/buttonController.cs" Line="5" Column="14" />
+      <File FileName="Assets/Tokuten.cs" Line="26" Column="31" />
+      <File FileName="Assets/BallController.cs" Line="43" Column="52" />
+      <File FileName="Assets/PuroperaController.cs" Line="14" Column="6" />
+      <File FileName="Assets/TopDirector.cs" />
+      <File FileName="Assets/GameOverDirector.cs" Line="31" Column="1" />
+      <File FileName="Assets/buttonController.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="X_PINBALL" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="buttonController.cs" selected="True" />
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="BallController.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
